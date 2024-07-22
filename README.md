@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi there, Im Robin👨🏻‍💻 
+<div class="container"> 
+  <div class="info"> 
+    <p>An aspiring Software Engineer specializing in web and software development</p> 
+  </div> 
+  <div class="skils"> 
+    <h3>SKILLS</h3> 
+    <ul> 
+      <li>HTML5</li> 
+      <li>CSS3</li> 
+      <li>JAVASCRIPT</li> 
+      <li>PYTHON</li> 
+      <li>BOOTSTRAP</li> 
+    </ul> 
+  </div> 
+  <div class="contacts"> 
+  </div> 
+</div>
 
 <!--
 **robraymundo/robraymundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
