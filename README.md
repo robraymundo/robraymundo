@@ -1,7 +1,7 @@
 ## Hi there, Im Robin👨🏻‍💻 
 <div class="container"> 
   <div class="info"> 
-    <p>An aspiring Software Engineer specializing in web and software development</p> 
+    <p>Aspiring Software Engineer specializing in web and software development</p> 
   </div> 
   <div class="skils"> 
     <h3>SKILLS</h3> 
