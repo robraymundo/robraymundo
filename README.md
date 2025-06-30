@@ -1,5 +1,5 @@
 ## Hi there, I’m Robin 👨🏻‍💻
-Aspiring Software Engineer specializing in web and software development
+Aspiring Software Engineer specializing in web and software development, driven by a passion for artificial intelligence and creating innovative solutions.
 
 <br><br>
 
@@ -19,6 +19,6 @@ Aspiring Software Engineer specializing in web and software development
 
 <br><br>
 
-## 🌐 My Socials:
+## 🌐 SOCIALS:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://facebook.com/robinrymnd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-raymundo-bb6003271) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rbnr19@gmail.com)
 
