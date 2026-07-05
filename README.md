@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Robin+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Engineer;Web+%26+Software+Developer;AI+Enthusiast" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=90&lines=Hi+there%2C+I'm+Robin+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Engineer;Web+%26+Software+Developer;AI+Enthusiast" alt="Typing SVG" />
+
+<br>
 
 </div>
 
@@ -34,6 +38,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <br>
 
 ## 📊 Stats
