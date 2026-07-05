@@ -44,7 +44,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robraymundo&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=robraymundo&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
 
 </div>
 
