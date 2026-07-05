@@ -17,7 +17,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## `> tech.stack`
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +40,7 @@
 
 <br>
 
-## 📊 Stats
+## `> github.stats`
 
 <div align="center">
 
@@ -50,6 +50,6 @@
 
 <br>
 
-## 🌐 Socials
+## `> socials`
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://facebook.com/robinrymnd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-raymundo-bb6003271) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rbnr19@gmail.com)
