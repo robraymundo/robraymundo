@@ -10,7 +10,7 @@
 
 > ```
 > $ whoami
-> > Aspiring Software Engineer specializing in web and software
+> > Software Engineer specializing in web and software
 >   development, driven by a passion for artificial intelligence
 >   and creating innovative solutions.
 > ```
