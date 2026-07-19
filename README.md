@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=90&lines=Hi+there%2C+I'm+Rob+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full-Stack+Developer;AI+Automation+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=Hi+there%2C+I'm+Rob+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full-Stack+Developer;AI+Automation+Engineer" alt="Typing SVG" />
 
 <br>
 
@@ -38,14 +38,14 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <br>
 
 ## `> github.stats`
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robraymundo&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=robraymundo&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&stroke=30363d&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
